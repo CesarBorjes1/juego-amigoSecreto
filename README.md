@@ -1,4 +1,4 @@
-<h1 aling='center'>Amigo Secreto</h1>
+<h1 align='center'>Juego Amigo Secreto</h1>
 
 <br>
 <h3>Descripción</h3>
